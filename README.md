@@ -19,7 +19,9 @@ Early Access is a new popular way for developers to earn money so they can furth
 
 (Should there be a mechanism in place to let players know if the studio is in trouble, and if development is likely to continue?)
 
+(how successful is the early access model?)
 
+(Is early access ruining the quality of games?)
 
 
 ##References:
