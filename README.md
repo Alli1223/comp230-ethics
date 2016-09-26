@@ -23,8 +23,14 @@ Early Access is a new popular way for developers to earn money so they can furth
 
 (Is early access ruining the quality of games?)
 
+___
 
 ##References:
 
 http://www.gamasutra.com/blogs/PaulAllen/20160211/265598/Is_Steams_Early_Access_a_ticking_time_bomb.php
 
+
+http://www.extremetech.com/gaming/173353-kickstarter-and-early-access-games-are-ruining-pc-gaming
+
+
+https://sieidi.com/reasons-why-some-games-on-steam-early-access-fail/
