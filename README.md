@@ -38,3 +38,5 @@ https://sieidi.com/reasons-why-some-games-on-steam-early-access-fail/
 http://www.gamesindustry.biz/articles/2014-11-13-early-access-popularity-growing-but-only-25-percent-have-released-as-a-full-game
 
 http://www.gamesindustry.biz/articles/2016-03-11-steam-early-access-is-hitting-its-stride-eedar
+
+https://pcgnet.wordpress.com/2016/06/29/the-potential-turmoils-and-failures-of-early-access-and-crowdfunded-games/
