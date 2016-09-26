@@ -4,14 +4,25 @@ ___
 
 #Topic:
 
-###Professionalism Proposal:
+###Essay Proposal:
 Is it acceptable that most new games companies are charging for the game before they've finished it? E.g Early access
 
+Why should people pay to playtest some companies unfinished game?
 
-###Ethics Proposal:
-Desensitisation to violence and the lasting temporary effects of virtual reality. E.g. forgetting what is real after leaving virtual reality.
+Early Access is a new popular way for developers to earn money so they can further develop the game. However the early access model does not always work, as many games have stopped development, even though people have already bought it.
 
-Is VR too immersive that some people may think its real?
 
-For my essay I will write about the emerging issue of virtual reality, as VR is becoming more popular, cases are being reported where people forget that they are not in a VR space anymore, and it takes them a while to get adjusted back into reality.
+###Subtopics:
+(not delivering on promises to backers.)
+
+(when do games leave early access?)
+
+(Should there be a mechanism in place to let players know if the studio is in trouble, and if development is likely to continue?)
+
+
+
+
+##References:
+
+http://www.gamasutra.com/blogs/PaulAllen/20160211/265598/Is_Steams_Early_Access_a_ticking_time_bomb.php
 
