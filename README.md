@@ -25,7 +25,7 @@ Early Access is a new popular way for developers to earn money so they can furth
 
 ___
 
-##References:
+##Non-Academic References:
 
 http://www.gamasutra.com/blogs/PaulAllen/20160211/265598/Is_Steams_Early_Access_a_ticking_time_bomb.php
 
