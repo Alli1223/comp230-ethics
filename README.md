@@ -12,15 +12,6 @@ Why should people pay to playtest some companies unfinished game?
 Early Access is a new popular way for developers to earn money so they can further develop the game. However the early access model does not always work, as many games have stopped development, even though people have already paid for it.
 
 
-###Subtopics:
-(not delivering on promises to backers.)
-
-(Should there be a mechanism in place to let players know if the studio is in trouble, and if development is likely to continue?)
-
-(how successful is the early access model?)
-
-(Is early access ruining the quality of games?)
-
 ___
 
 ##Academic References:
